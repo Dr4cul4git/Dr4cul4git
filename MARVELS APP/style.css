@@ -1,0 +1,66 @@
+h1{
+   color: red;
+   background-color: rgb(1, 1, 1);
+   text-align: center;
+}
+
+h3{
+    color: red;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+a{
+ font-family: Arial, Helvetica, sans-serif;
+ text-decoration: wavy; 
+ background-color: rgb(52, 52, 125);
+ padding: 5px; 
+ text-align: center; 
+}
+
+body{
+    color:rgba(0, 0, 0, 0.532);
+    background-color: rgba(46, 40, 156, 0.253);
+}
+.gallery img{
+    width: 100%;
+}
+.avenger_01{
+    background-color: blue;
+    text-align: center;
+    text-decoration: darkblue;
+}
+#menu{
+width:100%;
+height:40px;
+background-color: rgb(169, 34, 16);
+padding-top: 10px;
+}
+
+#menu a{
+color:#ffffff;
+font-family: Helvetica, sans-serif;
+font-size: 18px;
+font-weight: 800px;
+padding-left: 100px;
+padding-right: 100px;
+text-align: center;
+}
+
+#menu a:hover{
+color: #5077bd;
+}
+#menu-bar a{
+    text-align: center;
+}
+
+#about_us{
+    text-decoration-color: aliceblue;
+    background-color: color(srgb rgb(45, 31, 31) );
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 20px; 
+    font-weight: 500;
+}
+
+
